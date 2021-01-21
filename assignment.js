@@ -1,4 +1,4 @@
-//repo link
+//https://github.com/marufpbt/assignment
 //problem solving-1
 function kilometerToMeter(kilometer) {
 	var meter = 1000 * kilometer;
